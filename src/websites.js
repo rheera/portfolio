@@ -1,0 +1,58 @@
+export const websites = [
+  {
+    id: 1,
+    name: "Latte Larry's",
+    url: "https://latte-larrys.netlify.app",
+    pic: "",
+    desc: "",
+  },
+  {
+    id: 2,
+    name: "Restaurant Menu",
+    url: "https://restaurant-menu-demo.netlify.app",
+    pic: "",
+    desc: "",
+  },
+  {
+    id: 3,
+    name: "Reviews",
+    url: "https://reviews-site.netlify.app",
+    pic: "",
+    desc: "",
+  },
+  {
+    id: 4,
+    name: "Tours",
+    url: "https://tours-demosite.netlify.app",
+    pic: "",
+    desc: "",
+  },
+  {
+    id: 5,
+    name: "Accordion",
+    url: "https://accordion-collapsible.netlify.app",
+    pic: "",
+    desc: "",
+  },
+  {
+    id: 6,
+    name: "Markdown Previewer",
+    url: "https://accordion-collapsible.netlify.app",
+    pic: "",
+    desc: "",
+  },
+  {
+    id: 7,
+    name: "Survey Form",
+    url: "https://codepen.io/RamanH/pen/LYGpjYd",
+    pic: "",
+    desc: "",
+  },
+  {
+    id: 8,
+    name: "Technical Documentation",
+    url: "https://codepen.io/RamanH/pen/zYrqVNX",
+    pic: "",
+    desc: "",
+  },
+];
