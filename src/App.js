@@ -12,7 +12,7 @@ function App() {
       </header>
       <section className="section">
         <div className="container all-tiles">
-          <div className="columns is-multiline">
+          <div className="tile is-ancestor">
             {sites.map((site) => {
               return <Tile key={site.id} {...site} />;
             })}
