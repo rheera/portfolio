@@ -11,8 +11,8 @@ function App() {
         <h1>Portfolio</h1>
       </header>
       <section className="section">
-        <div className="container all-tiles">
-          <div className="tile is-ancestor">
+        <div className="container">
+          <div className="columns all-tiles has-text-centered">
             {sites.map((site) => {
               return <Tile key={site.id} {...site} />;
             })}
