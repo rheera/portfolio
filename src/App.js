@@ -7,12 +7,9 @@ function App() {
   const [sites, setSites] = useState(websites);
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Portfolio</h1>
-      </header>
       <section className="section">
         <div className="container">
-          <div className="columns all-tiles has-text-centered">
+          <div className="columns is-multiline all-tiles is-centered has-text-centered">
             {sites.map((site) => {
               return <Tile key={site.id} {...site} />;
             })}
