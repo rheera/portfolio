@@ -5,7 +5,7 @@ export const websites = [
     url: "https://latte-larrys.netlify.app",
     pic: "website-pics/latte-larrys.png",
     desc: "A storefront website for coffee, made with HTML and CSS",
-    tags: "HTML, CSS, Bulma, JS",
+    tags: ["HTML", "CSS", "JavaScript", "Bulma"],
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const websites = [
     url: "https://restaurant-menu-demo.netlify.app",
     pic: "website-pics/menu.png",
     desc: "A restaurant website with filtering, made with React",
-    tags: "HTML, CSS, JS, React",
+    tags: ["HTML", "CSS", "Bulma", "JavaScript", "React"],
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const websites = [
     url: "https://reviews-site.netlify.app",
     pic: "website-pics/reviews.png",
     desc: "A website with testimonials, made with React",
-    tags: "HTML, CSS, JS, React",
+    tags: ["HTML", "CSS", "Bulma", "JavaScript", "React"],
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const websites = [
     url: "https://tours-demosite.netlify.app",
     pic: "website-pics/tours.png",
     desc: "A website with different tour packages, made with React",
-    tags: "HTML, CSS, JS, React",
+    tags: ["HTML", "CSS", "Bulma", "JavaScript", "React"],
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const websites = [
     url: "https://accordion-collapsible.netlify.app",
     pic: "website-pics/accordion.png",
     desc: "A website to practice collapsible boxes, made with React",
-    tags: "HTML, CSS, JS, React",
+    tags: ["HTML", "CSS", "Bulma", "JavaScript", "React"],
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const websites = [
     url: "https://codepen.io/RamanH/pen/xxZapaj",
     pic: "website-pics/markdown.png",
     desc: "Website that translates markdown language into HTML",
-    tags: "HTML, CSS, JS, Bootstrap, React",
+    tags: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const websites = [
     url: "https://codepen.io/RamanH/pen/LYGpjYd",
     pic: "website-pics/survey.png",
     desc: "A website that takes inputs",
-    tags: "HTML, CSS",
+    tags: ["HTML", "CSS"],
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const websites = [
     url: "https://codepen.io/RamanH/pen/zYrqVNX",
     pic: "website-pics/documentation.png",
     desc: "Website that contains documentation with sidebar for navigation",
-    tags: "HTML, CSS",
+    tags: ["HTML", "CSS"],
   },
   {
     id: 9,
@@ -70,7 +70,7 @@ export const websites = [
     pic: "website-pics/quotes.png",
     desc:
       "Website that displays random Naruto Quotes with random backgrounds, made with React",
-    tags: "HTML, CSS, JS, React",
+    tags: ["HTML", "CSS", "JavaScript", "React"],
   },
   {
     id: 10,
@@ -79,6 +79,6 @@ export const websites = [
     pic: "website-pics/drums.png",
     desc:
       "Website that can play certain drums with mouse or key clicks, made with React",
-    tags: "HTML, CSS, JS, React",
+    tags: ["HTML", "CSS", "JavaScript", "React"],
   },
 ];
